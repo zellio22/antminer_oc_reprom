@@ -95,7 +95,7 @@
    Dans les 2 adresses de fin se trouve le résultat du CRC 16 Modbus 
    Pour le calcul du CRC 16 Utiliser le Scripte suivant 
    bin_to_crc.py
-   [bin_to_crc.py](bin_to_crc.py
+   [bin_to_crc.py](bin_to_crc.py)
 
 ## 7. Optimal Hash rate
    F4 poid Faible 
