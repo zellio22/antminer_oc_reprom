@@ -108,7 +108,7 @@
 
    hash_rate_guard: hash rate guard triggered! pcb_lowest_temp: 27.0, avg_rate: 11409.9 < 13897.4 in 30min
 
-   en effet l'Antminer addition tout les Hashrates ideal et y applique une tolerance de 10 %
+   en effet l'Antminer addition tout les Hashrates ideal et y applique une tolerance de 2 %
    Dans mon cas:
 
    driver-btm-soc.c:6282:need_mode2_startup: chain 0 rt_hash_rate 3892.17 ideal_hash_rate 4665
