@@ -101,4 +101,9 @@
    F5 Poid Fort
    Dans mon cas 127f > 4735 Mh/s / board 
    
+## 8. Remerciment
+
+   Merci Djay pour le coup de main
+   [Djay OS](https://discord.gg/738791545729318963)
+   
    
