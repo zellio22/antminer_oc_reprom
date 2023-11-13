@@ -100,6 +100,9 @@
    [bin_to_crc.py](bin_to_crc.py)
 
 ## 8. Optimal Hash rate
+   
+   La valeur de l'Optimal Hash Rate est definit aussi dans l'Eeprom et peux conduire à des erreurs 
+   
    F4 poid Faible, 
    F5 Poid Fort,
    
