@@ -104,6 +104,6 @@
 ## 8. Remerciment
 
    Merci Djay pour le coup de main
-   [Djay OS](https://discord.gg/738791545729318963)
+   [Djay OS](https://discord.com/invite/JdQJ77X)
    
    
