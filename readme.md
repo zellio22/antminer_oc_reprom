@@ -103,11 +103,13 @@
    
    Dans mon cas 127f > 4735 Mh/s / board 
    je calcule environ 12 Mhs/ Mhz en supposant que ce soit linéaire
-   dans le cas ou le HashRate Ideal n'est pas corectement definit 
-   nous avons l'erreur suivante 
+   
+   Dans le cas ou le HashRate Ideal n'est pas corectement definit 
+   nous avons l'erreur suivante:
 
+   '''
    hash_rate_guard: hash rate guard triggered! pcb_lowest_temp: 27.0, avg_rate: 11409.9 < 13897.4 in 30min
-
+   '''
    en effet l'Antminer addition tout les Hashrates ideal et y applique une tolerance de 2 %
    Dans mon cas:
 
