@@ -112,10 +112,13 @@
    Dans mon cas:
 
    driver-btm-soc.c:6282:need_mode2_startup: chain 0 rt_hash_rate 3892.17 ideal_hash_rate 4665
+   
    driver-btm-soc.c:6282:need_mode2_startup: chain 1 rt_hash_rate 3782.22 ideal_hash_rate 4779
+   
    driver-btm-soc.c:6282:need_mode2_startup: chain 2 rt_hash_rate 4002.11 ideal_hash_rate 4737
 
    driver-btm-soc.c:3679:check_system_work: 30 mins avg rate [11410], PCB temp [23 - 54], CHIP temp [41 - 72]
+   
    driver-btm-soc.c:3449:hash_rate_guard: hash rate guard triggered! pcb_lowest_temp: 27.0, avg_rate: 11409.9 < 13897.4 in 30min
 
    4665+4779+4737=14181
