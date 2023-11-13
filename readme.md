@@ -49,6 +49,7 @@ Voici les Adresses interesantes
 | 88-C3 | Freq_Asic |
 |87|U_volt_asic|
 |FE - FF | CRC-16 Modbus|
+|F4 - F5 | Optimal Hash rate|
 
 
 ## 5. Fréquences / HEX 
