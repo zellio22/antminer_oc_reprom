@@ -46,10 +46,11 @@ Voici les Adresses interesantes
 
 | Adresse | Role |
 |:-----------------:|:---------------:|
-| 88-C3 | Freq_Asic |
+|88 - C3 | Freq_Asic |
 |87|U_volt_asic|
 |FE - FF | CRC-16 Modbus|
 |F4 - F5 | Optimal Hash rate|
+|79 - 7E | Unknow|
 
 
 ## 5. Fréquences / HEX 
@@ -94,3 +95,10 @@ Voici les Adresses interesantes
    Dans les 2 adresses de fin ce Trouve le resultat du CRC 16 Modbus 
    Pour le calcul du CRC 16 Utilise le Scripte suivant 
    bin_to_crc.py
+
+## 7. Optimal Hash rate
+   F4 poid Faible 
+   F5 Poid Fort
+   Dans mon cas 127f > 4735 Mh /s / board 
+   
+   
