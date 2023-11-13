@@ -122,6 +122,7 @@
    driver-btm-soc.c:3449:hash_rate_guard: hash rate guard triggered! pcb_lowest_temp: 27.0, avg_rate: 11409.9 < 13897.4 in 30min
 
    4665+4779+4737=14181
+   *0.98=13897
    
    
 ## 9. Remerciment
