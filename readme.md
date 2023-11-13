@@ -1,10 +1,10 @@
 # README - Modification des Fréquences ASIC sur l'Antminer S9K avec l'eeprom 
 
 ## 1. Introduction
-   - Modification des Frequence des ASIC
-   - Diminution de la consomation Electrique 
-   - Diminution de la Chaleur dissipé par l'Antminer
-   - Permetre d'utiliser des Ventilateurs plus silencieux 
+   - Modification des Fréquence des ASIC
+   - Diminution de la consommation Électrique 
+   - Diminution de la Chaleur dissipée par l'Antminer
+   - Permettre d'utiliser des Ventilateurs plus silencieux
       de Type Noctua NF-A14 iPPC-3000 PWM
 
 ## 2. Cablage 
@@ -17,8 +17,8 @@
 ![Reprom_sh](images/eprom_sh.jpg)
 
 ## 3. Sauvegarde de la Reprom d'Origine
-   - premierement il est necessaire de fair un DUMP de l'EEPROM d'origine 
-   - Pour information voic Mon Eeprom Origine 
+   - Premièrement il est nécessaire de fair un DUMP de l'EEPROM d'origine 
+   - Pour information voici Mon Eeprom Origine
    <pre>
 
 ```HEX    0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F
