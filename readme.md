@@ -42,7 +42,7 @@
 </pre>
 
 ## 4. Voici les Adresses interesantes 
-Voici les Adresses interesantes  
+ 
 
 | Adresse | Role |
 |:-----------------:|:---------------:|
@@ -92,13 +92,13 @@ Voici les Adresses interesantes
 |A5|165|9.3|
 
 ## 7. CRC 16 ModBus
-   Dans les 2 adresses de fin ce Trouve le resultat du CRC 16 Modbus 
-   Pour le calcul du CRC 16 Utilise le Scripte suivant 
+   Dans les 2 adresses de fin se trouve le résultat du CRC 16 Modbus 
+   Pour le calcul du CRC 16 Utiliser le Scripte suivant 
    bin_to_crc.py
 
 ## 7. Optimal Hash rate
    F4 poid Faible 
    F5 Poid Fort
-   Dans mon cas 127f > 4735 Mh /s / board 
+   Dans mon cas 127f > 4735 Mh/s / board 
    
    
