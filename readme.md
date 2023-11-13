@@ -97,13 +97,13 @@
    bin_to_crc.py
    [bin_to_crc.py](bin_to_crc.py)
 
-## 7. Optimal Hash rate
+## 8. Optimal Hash rate
    F4 poid Faible 
    F5 Poid Fort
    Dans mon cas 127f > 4735 Mh/s / board 
    je calcule environ 12 Mhs/ Mhz en supposant que ce soit linéaire
    
-## 8. Remerciment
+## 9. Remerciment
 
    Merci Djay pour le coup de main
    [Djay OS](https://www.djayos.com/)
