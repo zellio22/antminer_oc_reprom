@@ -115,7 +115,7 @@
    ```
    hash_rate_guard: hash rate guard triggered! pcb_lowest_temp: 27.0, avg_rate: 11409.9 < 13897.4 in 30min
    ```
-   en effet l'Antminer addition tout les Hashrates ideal et y applique une tolerance de 2 %
+   en effet l'Antminer additionne tous les Hashrates idéals et y applique une tolérance de 2 %
    Dans mon cas:
 
    ```
