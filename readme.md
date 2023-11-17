@@ -55,7 +55,7 @@
 
 ## 5. Fréquences / HEX 
 
-   88-C3 Adresse memoire des Frequences ASIC / individuelle 
+   88-C3 Adresse memoire des Frequences ASIC 
 
 | Fréquences Mhz | HEX |~ Mh/s|
 |:-----------------:|:---------------:|:---------------:|
@@ -97,17 +97,18 @@
 ## 7. CRC 16 ModBus
    Dans les 2 adresses de fin se trouve le résultat du CRC 16 Modbus 
    Pour le calcul du CRC 16 Utiliser le Scripte suivant 
-   bin_to_crc.py
    [bin_to_crc.py](bin_to_crc.py)
 
 ## 8. Optimal Hash rate
    
-   La valeur de l'Optimal Hash Rate est definit aussi dans l'Eeprom et peux conduire à des erreurs 
+   La valeur de l'Optimal Hash Rate est definit dans l'Eeprom et peux conduire à des erreurs 
    
    F4 poid Faible, 
+   
    F5 Poid Fort,
    
-   Dans mon cas 127f > 4735 Mh/s / board 
+   Dans mon cas 127F > 4735 Mh/s / board 
+   
    je calcule environ 12 Mhs/ Mhz en supposant que ce soit linéaire
    
    Dans le cas ou le HashRate Ideal n'est pas corectement definit 
