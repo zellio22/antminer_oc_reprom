@@ -55,7 +55,7 @@
 
 ## 5. Fréquences / HEX 
 
-88-C3 Adresse memoire des Frequences ASIC / individuelle 
+   88-C3 Adresse memoire des Frequences ASIC / individuelle 
 
 | Fréquences Mhz | HEX |~ Mh/s|
 |:-----------------:|:---------------:|:---------------:|
