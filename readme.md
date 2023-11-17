@@ -55,6 +55,8 @@
 
 ## 5. Fréquences / HEX 
 
+88-C3 Adresse memoire des Frequences ASIC / individuelle 
+
 | Fréquences Mhz | HEX |~ Mh/s|
 |:-----------------:|:---------------:|:---------------:|
 | 385 Mhz | 4D |4620|
@@ -75,7 +77,6 @@
 | 310 Mhz | 3E |3720|
 | 305 Mhz | 3D |3660|
 | 300 Mhz | 3C |3600|
-
 
 
 
