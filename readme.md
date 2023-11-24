@@ -48,6 +48,8 @@
 |:-----------------:|:---------------:|
 |88 - C3 | Freq_Asic |
 |87|U_volt_asic|
+|FC|pcb version|
+|FD|bom version|
 |FE - FF | CRC-16 Modbus|
 |F4 - F5 | Optimal Hash rate|
 |79 - 7E | Unknow|
